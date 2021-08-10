@@ -36,7 +36,7 @@ def get_sources():
 
     return sources_results #return a list of sources objects
 
-def process_sources(sources_list):
+def process_sourcs(sources_list):
     '''
     Function  that processes the sources result and transform them to a list of Objects
     Args:
