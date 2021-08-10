@@ -7,7 +7,7 @@ from .models import Source,Article
 api_key = None
 
 # Getting the news base url
-base_url=None
+base_url=Non
 
 #getting articles base url
 article_url=None
