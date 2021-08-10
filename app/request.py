@@ -65,7 +65,7 @@ def process_sources(sources_list):
 def article_source(id):
     article_source_url = article_url.format(id,api_key)
     print(article_source_url)
-    with urlli.request.urlopen(article_source_url) as url:
+    with urllib.request.urlopen(article_source_url) as url:
         article_source_data = url.read()
         article_source_response = json.loads(article_source_data)
 
