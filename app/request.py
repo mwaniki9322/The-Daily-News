@@ -80,7 +80,7 @@ def article_source(id):
 
 
 def process_articles_results(articles_list):
-    ''
+    '''
     function that processes the json files of articles from the api key
     '''
     article_source_results = []
