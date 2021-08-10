@@ -15,7 +15,7 @@ class Source:
         self.UrlToImage=UrlToImage
 
 
-class Article
+class Article:
     '''
     Article class to define Article Objects
     '''
