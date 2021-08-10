@@ -14,7 +14,7 @@ A news application application that helps list and preview news articles from va
 ## Setup Process
 To run the web application on your server use the following steps.
 
-*  git clone https://github.com/mwaniki9322/The-Daily-News.gi
+*  git clone https://github.com/mwaniki9322/The-Daily-News.git
 *  cd The-Daily-News
 *  code .
 *  chmod x+a manage.py
